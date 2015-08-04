@@ -1,0 +1,11 @@
+{
+  "name": "adaself",
+  "version": "0.0.9",
+  "description": "a personal website",
+  "keywords": [
+    "fis",
+    "personal"
+  ],
+  "repository": "https://ada_rj@bitbucket.org/ada_rj/myself_ada.git",
+  "license": "MIT"
+}
